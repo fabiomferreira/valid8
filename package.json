@@ -1,0 +1,27 @@
+{
+  "name": "valid8",
+  "version": "0.1.0",
+  "description": "Validation methods in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiomferreira/valid8.git"
+  },
+  "keywords": [
+    "validation",
+    "javascript"
+  ],
+  "author": "Fabio Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiomferreira/valid8/issues"
+  },
+  "homepage": "https://github.com/fabiomferreira/valid8#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
